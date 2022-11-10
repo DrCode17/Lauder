@@ -1,0 +1,11 @@
+C:\Users\simon\source\repos\lauder1\bin\Debug\lauder1.exe.config
+C:\Users\simon\source\repos\lauder1\bin\Debug\lauder1.exe
+C:\Users\simon\source\repos\lauder1\bin\Debug\lauder1.pdb
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.csproj.SuggestedBindingRedirects.cache
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.Form1.resources
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.Properties.Resources.resources
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.exe
+C:\Users\simon\source\repos\lauder1\obj\Debug\lauder1.pdb
