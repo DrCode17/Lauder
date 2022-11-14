@@ -1,0 +1,8 @@
+C:\Users\simon\source\repos\masodik\bin\Debug\masodik.exe.config
+C:\Users\simon\source\repos\masodik\bin\Debug\masodik.exe
+C:\Users\simon\source\repos\masodik\bin\Debug\masodik.pdb
+C:\Users\simon\source\repos\masodik\obj\Debug\masodik.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\masodik\obj\Debug\masodik.csproj.SuggestedBindingRedirects.cache
+C:\Users\simon\source\repos\masodik\obj\Debug\masodik.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\masodik\obj\Debug\masodik.exe
+C:\Users\simon\source\repos\masodik\obj\Debug\masodik.pdb
