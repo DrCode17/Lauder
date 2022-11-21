@@ -1,0 +1,8 @@
+C:\Users\simon\source\repos\lauder3\bin\Debug\lauder3.exe.config
+C:\Users\simon\source\repos\lauder3\bin\Debug\lauder3.exe
+C:\Users\simon\source\repos\lauder3\bin\Debug\lauder3.pdb
+C:\Users\simon\source\repos\lauder3\obj\Debug\lauder3.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\lauder3\obj\Debug\lauder3.csproj.SuggestedBindingRedirects.cache
+C:\Users\simon\source\repos\lauder3\obj\Debug\lauder3.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\lauder3\obj\Debug\lauder3.exe
+C:\Users\simon\source\repos\lauder3\obj\Debug\lauder3.pdb
